@@ -22,7 +22,7 @@ To apply various UX design techniques such as solution ideation, user story crea
 
 ## Output:
 
-1. Solution Ideation — Crazy 8s
+# 1. Solution Ideation — Crazy 8s
 
 UX Problem: Booking an appointment in a hospital app is confusing and time-consuming, especially for elderly users and first-time patients who struggle with long forms, medical jargon, and unclear doctor availability.
 
@@ -30,7 +30,7 @@ Eight low-fidelity ideas generated in the Crazy 8s exercise (1 idea per minute):
 
 <img width="960" height="531" alt="crazy8_table" src="https://github.com/user-attachments/assets/e46ffc23-107d-4090-b289-26debbb3aaa6" />
 
-2. Creating User Stories
+# 2. Creating User Stories
 Personas:
 ●Meena (65) – Retired teacher, low tech literacy, prefers voice/large text.
 ●Arjun (32) – IT professional, busy on weekdays, books only after work hours.
@@ -46,19 +46,19 @@ User Stories:
 ●As a first-time user, I want to follow a simple step-by-step booking guide, so that I don't get confused while using the app.
 ●As a patient with a chronic condition, I want to rebook my usual doctor with one tap, so that I save time on repeated visits.
 
-3. Creating Scenarios
+# 3. Creating Scenarios
 Selected user story: "As an elderly patient, I want to book an appointment using voice commands, so that I don't need to type or navigate complex menus."
 Narrative Scenario:
 Meena, 65, lives alone and recently started experiencing knee pain that makes it hard to walk to the clinic to book an appointment in person. Her daughter installed a hospital appointment app on her phone last week, but Meena feels anxious about using it — the small text and multiple menu screens make her worry she'll press the wrong thing and mess something up.
 One evening, sitting in her living room with her reading glasses nearby, she remembers her daughter mentioning a microphone button on the home screen. Hesitant but hopeful, she taps it and says, "I need to see a bone doctor for my knee." The app responds by reading out loud, "I found Dr. Suresh, Orthopedist, available tomorrow at 11 AM. Should I book this?" Meena feels a wave of relief — she says "Yes," and the app confirms the booking and reads back the date and time.
 Her emotional state shifts from anxious and unsure at the start to relieved and confident by the end, because the voice interface removed the need to read small text or navigate unfamiliar screens. The quiet, unhurried environment of her living room, using her own phone at her own pace, made her comfortable enough to try a feature she would have avoided in a busier setting like a hospital counter.
 
-4. Flow Diagram / Flow Mapping
+# 4. Flow Diagram / Flow Mapping
 Task: Booking an appointment via the hospital app (Voice path and Manual/Calendar path).
 
 <img width="455" height="820" alt="flowchart" src="https://github.com/user-attachments/assets/ea81f80b-bc73-49ab-bcab-d6ef34fea606" />
 
-5. Information Architecture (IA)
+# 5. Information Architecture (IA)
 Example site: University Website
 Card Sorting (Open card sort) — cards given to participants:
 Admissions, Course Catalog, Fee Structure, Scholarships, Faculty Directory, Research Papers, Library Portal, Hostel Facilities, Sports Complex, Placement Records, Alumni Network, Campus Events, Academic Calendar, Exam Results, Contact Us, About the University
