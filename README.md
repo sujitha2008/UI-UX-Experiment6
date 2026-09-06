@@ -81,8 +81,7 @@ Symbols used: Oval = Start/End, Rectangle = Action/Process, Diamond = Decision p
 
 ## 5. Information Architecture (IA)
 
-**Example site: University Website
-**
+**Example site: University Website**
 
 Card Sorting (Open card sort) — cards given to participants:
 
